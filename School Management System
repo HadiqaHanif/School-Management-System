@@ -1,0 +1,39 @@
+class Student:
+    def __init__(self, name , age , Roll_Number , marks):
+        self.name = name
+        self.age = age
+        self.Roll_Number = Roll_Number
+        self.marks = marks
+    def introduce(self):
+        print("Name: ", self.name)
+        print("Age: ", self.age)
+        print("Roll_Number: ", self.Roll_Number)
+        print("Marks: ", self.marks)
+    def is_pass(self):
+        if self.marks >= 40:
+            print("Pass")
+        else:
+            print("Fail")
+    def grade(self):
+        if self.marks >= 90:
+            print("A+")
+        elif self.marks >= 80:
+            print("A")
+        elif self.marks >= 70:
+            print("B")
+        elif self.marks >= 60:
+            print("C")
+        elif self.marks >= 40:
+            print("D")
+        else:
+            print("F")
+student1 = Student("Hadiqa", 18 , 418 , 95)
+student1.introduce()
+student1.is_pass()
+student1.grade()
+ 
+
+student2 = Student("Hanif", 23 , 417 , 95)
+student2.introduce()
+student2.is_pass()
+student2.grade()
