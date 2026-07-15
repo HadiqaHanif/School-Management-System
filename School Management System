@@ -32,7 +32,7 @@ student1.introduce()
 student1.is_pass()
 student1.grade()
  
-
+print("="*50)
 student2 = Student("Hanif", 23 , 417 , 95)
 student2.introduce()
 student2.is_pass()
