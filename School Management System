@@ -27,12 +27,14 @@ class Student:
             print("D")
         else:
             print("F")
+#user1
 student1 = Student("Hadiqa", 18 , 418 , 95)
 student1.introduce()
 student1.is_pass()
 student1.grade()
  
 print("="*50)
+#user2
 student2 = Student("Hanif", 23 , 417 , 95)
 student2.introduce()
 student2.is_pass()
