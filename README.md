@@ -5,7 +5,6 @@ This is a beginner-friendly Python project that demonstrates the fundamentals of
 Features
 
 Create student objects with:
-
   * Name
   * Age
   * Roll Number
