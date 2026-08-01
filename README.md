@@ -23,7 +23,6 @@ Grade Criteria
 * F: Below 40
 
  Concepts Used
-
 * Classes and Objects
 * Constructors (`__init__`)
 * Instance Attributes
