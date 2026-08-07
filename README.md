@@ -30,3 +30,4 @@ Grade Criteria
 * Conditional Statements (`if`, `elif`, `else`)
 
 This project is part of my Python OOP learning journey and focuses on building a strong foundation in object-oriented programming.
+Author: Hadiqa Hanif -- Beginner 🔰 
